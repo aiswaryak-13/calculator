@@ -1,0 +1,31 @@
+body
+{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+  color: white;
+}
+button
+{
+  width: 60px;
+  height: 60px;
+  border-radius: 35px;
+  border: none;
+  background-color: rgb(50, 50, 50);
+  color: white;
+  margin-right: 5px;
+  font-size: 26px;
+}
+.clear-button
+{
+  font-size: 17px;
+}
+.operator-button
+{
+  background-color: orange;
+}
+.screen
+{
+  margin-top: 15px;
+  margin-bottom: 0;
+  font-size: 45px;
+}
